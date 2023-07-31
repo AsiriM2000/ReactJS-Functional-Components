@@ -1,0 +1,23 @@
+.tbl-view{
+    margin-top: 100px;
+    width: 80vw;
+    
+}
+th ,td{
+    border-radius: 10px;
+}
+th{
+    border: transparent;
+    padding-bottom: 20px;
+}
+td{
+    border: 0.5px solid rgb(50, 163, 167);
+    padding-bottom: 10px;
+}
+td:hover{
+    border: 2.5px solid rgb(50, 167, 56);
+}
+
+tr{
+    margin-bottom: 20px;
+}

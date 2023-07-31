@@ -1,0 +1,21 @@
+.nav-outer{
+    display: flex;
+    justify-content: center;
+    row-gap: 20px;
+    height: 100px;
+    width: 100vw;  
+    background-color: rgb(20, 20, 20);
+    padding-top: 20px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+.nav{
+    margin-top: 20px;
+    width: 200px;
+    height: 60px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+    
+}
